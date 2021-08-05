@@ -1,6 +1,5 @@
 node_modules
-log
+logs
 *.log
 npm-debug.log*
 .nyc_output
-
